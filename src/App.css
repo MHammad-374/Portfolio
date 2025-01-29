@@ -170,7 +170,7 @@ div.photos {
 img.photo {
   height: 400px;
   width: 300px;
-  transform: scale(1.8);
+  /* transform: scale(1.8); */
   /* border-radius: 25px; */
 }
 

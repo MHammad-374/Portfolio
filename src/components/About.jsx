@@ -1,5 +1,5 @@
 import React from 'react'
-import Img from '../assets/me-2.jpg'
+import Img from '../assets/me-1.jpg'
 import DnsOutlinedIcon from '@mui/icons-material/DnsOutlined';
 import PeopleIcon from '@mui/icons-material/People';
 import SourceIcon from '@mui/icons-material/Source';
