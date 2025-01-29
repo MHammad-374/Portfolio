@@ -54,7 +54,14 @@ function About() {
               })
             }
           </div>
-          <div className="explaination">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi facere velit sed fugit vero veritatis doloribus reprehenderit ducimus alias fuga omnis hic commodi placeat, assumenda corrupti quis repellat iste ipsa ipsum in. Saepe ad quae quibusdam, sequi, repudiandae quaerat id perspiciatis dolore voluptates quidem nisi totam ducimus impedit optio non praesentium consectetur nesciunt sunt vero veniam corrupti? Asperiores, vitae aliquam?</div>
+          <div className="explaination">
+            I'm Muhammad Hammad a web developer proficient in MERN Stack & Wordpress Technologies.
+            Enthusiastic about developing forward-thinking
+            solutions to tomorrow’s productivity problems. Demonstrates hardworking and
+            adaptable approach to challenges with strong analytical and critical thinking skills.
+            Passionate about making creating, dynamic and efficient web applications with
+            responsive UI's and scalable server-side applications. Integrating front-end and backend technologies, working with JavaScript, RESTful APIs, and database management.
+          </div>
           <TalkButton />
         </div>
       </div>

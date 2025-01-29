@@ -215,8 +215,9 @@ p.gray {
 /* --------------------------------------- Skills --------------------------------------- */
 
 #Experience {
-  /* background-color: #0b664a; */
   padding: 50px 0px;
+  max-width: 1800px;
+  margin: auto;
 }
 
 .skills-container {
@@ -267,6 +268,9 @@ li {
 
 section#Projects {
   margin: 100px 0px;
+  background-color: #fff;
+  max-width: 1800px;
+  margin: auto;
 }
 
 .projects-list {
