@@ -40,7 +40,7 @@ function Project() {
       </div>
       <div className="projects-list">
         {
-          projects.map(project => {
+          projects.reverse().map(project => {
             return (
               <div key={project.id} className="project">
                 <img className='projectImg' src={project.image} alt="" />
