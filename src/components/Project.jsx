@@ -7,21 +7,21 @@ function Project() {
     {
       id: 1,
       image: Img,
-      name: "Todo App",
+      name: "Todo App 1",
       github: "https://github.com/MHammad-374/Todo_App",
       prev: "https://itask-todos-manager.netlify.app/"
     },
     {
       id: 2,
       image: Img,
-      name: "Todo App",
+      name: "Todo App 2",
       github: "https://github.com/MHammad-374/Todo_App",
       prev: "https://itask-todos-manager.netlify.app/"
     },
     {
       id: 3,
       image: Img,
-      name: "Todo App",
+      name: "Todo App 3",
       github: "https://github.com/MHammad-374/Todo_App",
       prev: "https://itask-todos-manager.netlify.app/"
     }
