@@ -7,7 +7,7 @@ import Img5 from "../assets/Stop Watch.png"
 import Img6 from "../assets/CSS.png"
 import Img7 from "../assets/todo.png"
 import Img8 from "../assets/Hacking.png"
-import Img9 from "../assets/Calculator.jpeg"
+import Img9 from "../assets/calculator.jpeg"
 import Img10 from "../assets/Tic Tac Toe.png"
 import Img11 from "../assets/Add to Cart.png"
 import Img12 from "../assets/Text Utills.png"
@@ -20,7 +20,7 @@ function Project() {
     {
       id: 1,
       image: Img1,
-      name: "Todo App 1",
+      name: "Todo App",
       github: "https://github.com/MHammad-374/Todo_App",
       prev: "https://itask-todos-manager.netlify.app/"
     },
