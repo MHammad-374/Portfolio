@@ -11,7 +11,7 @@ import Img9 from "../assets/calculator.jpeg"
 import Img10 from "../assets/Tic Tac Toe.png"
 import Img11 from "../assets/Add to Cart.png"
 import Img12 from "../assets/Text Utills.png"
-import Img13 from "../assets/xora.jpeg"
+import Img13 from "../assets/xora1.jpeg"
 import Img14 from "../assets/Chatbot.png"
 import OpenInNewIcon from '@mui/icons-material/OpenInNew';
 
